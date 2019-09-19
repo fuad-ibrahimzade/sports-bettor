@@ -1,0 +1,1 @@
+{"gameTime":[],"team1Name":[],"team2Name":[],"gameScore":[],"oddx":[],"datem":[],"datemHour":[]}
